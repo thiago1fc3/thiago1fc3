@@ -1,6 +1,8 @@
 ### Olá, tudo em paz contigo? 👋
 Espero que sim 😄
 
+### 👋 Hi there visitor <img src="https://profile-counter.glitch.me/{thiago1fc3}/count.svg" alt="Thiago :: Visitor's Count" />
+
 Meu nome é Thiago Felippe,
 
 sou professor efetivo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Desenvolvedor Fullstack | Java | Spring | Webflux | Kafka | SQL | Mongo | JavaScript | Vue.js | Python | PWA
