@@ -1,7 +1,7 @@
 ### Olá, tudo em paz contigo? 👋
 Espero que sim 😄
 
-### 👋 Hi there visitor <img src="https://profile-counter.glitch.me/{thiago1fc3}/count.svg" alt="Thiago :: Visitor's Count" />
+👋 Hi there visitor <img src="https://profile-counter.glitch.me/{thiago1fc3}/count.svg" alt="Thiago :: Visitor's Count" />
 
 Meu nome é Thiago Felippe,
 
