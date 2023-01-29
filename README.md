@@ -5,7 +5,7 @@ Espero que sim 😄
 
 Meu nome é Thiago Felippe,
 
-sou professor efetivo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Desenvolvedor Fullstack | Java | Kotlin | Android | Kafka | Websocket | Elasticsearch | Docker | Kubernates | Mongo
+sou professor efetivo no Instituto Federal de Educação, Ciência e Tecnologia do Ceará | Desenvolvedor Fullstack | Java | Kotlin | Android | Kafka | Websocket | Elasticsearch | Docker | Kubernetes | Mongo
 
 ![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thiago1fc3&show_icons=true&theme=dark)
 ![Top languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thiago1fc3&layout=compact&langs_count=7&theme=dark)
